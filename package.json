@@ -26,7 +26,14 @@
     "url": "https://github.com/Strider-Alex/react-animated-checkbox/issues"
   },
   "homepage": "https://github.com/Strider-Alex/react-animated-checkbox#readme",
+  "dependencies": {
+    "d3-ease": "^1.0.3",
+    "prop-types": "^15.6.0",
+    "react": "^16.1.1",
+    "react-move": "^2.6.0"
+  },
   "devDependencies": {
+    "react-dom": "^16.1.1",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.1.2",
@@ -34,15 +41,10 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
-    "d3-ease": "^1.0.3",
     "eslint": "^4.14.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1",
-    "eslint-watch": "^3.1.3",
-    "prop-types": "^15.6.0",
-    "react": "^16.1.1",
-    "react-dom": "^16.1.1",
-    "react-move": "^2.6.0"
+    "eslint-watch": "^3.1.3"
   }
 }
