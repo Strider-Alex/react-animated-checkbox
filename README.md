@@ -1,5 +1,5 @@
 # react-animated-checkbox
-A React component for animated checkbox
+A React component to display an animated checkbox on your website.
 ## Demo
 ![GIF](https://raw.githubusercontent.com/Strider-Alex/github-images/master/react-animated-checkbox/animation.gif)
 
